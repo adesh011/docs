@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Get Followers – Instant Instagram Growth</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
+    .container { max-width: 600px; margin: auto; background: #fff; padding: 20px; border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin-top: 30px; }
+    h1 { color: #ff3d00; text-align: center; }
+    .logo { width: 80px; display: block; margin: auto; border-radius: 50%; }
+    .info, .package, .contact { margin: 20px 0; }
+    .package { background: #f1f1f1; padding: 15px; border-radius: 10px; }
+    .package h2 { margin-top: 0; }
+    .btn { background: #ff3d00; color: white; padding: 10px 20px; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; display: block; margin: 10px auto; text-align: center; text-decoration: none; }
+    .note { font-size: 14px; color: #555; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.imgur.com/J7qOY5V.png" alt="Get Followers Logo" class="logo">
+    <h1>Get Followers</h1>
+    <div class="info">
+      <p><strong>Instagram:</strong> @aflit_markiting</p>
+      <p><strong>UPI:</strong> 7559324246@ybl</p>
+    </div>
+
+    <div class="package">
+      <h2>📦 Followers Packages</h2>
+      <ul>
+        <li>✅ 100 Followers – ₹49</li>
+        <li>✅ 500 Followers – ₹199</li>
+        <li>✅ 1000 Followers – ₹349</li>
+      </ul>
+    </div>
+
+    <a class="btn" href="https://wa.me/917559324246?text=Hi%2C%20I%20want%20Instagram%20followers.%20Package%20details%20please.">📲 Order Now on WhatsApp</a>
+
+    <div class="note">
+      <p>⚠️ No password needed – Safe & Secure</p>
+      <p>💰 UPI Payment only: 7559324246@ybl</p>
+      <p>📞 Contact support on WhatsApp: 7559324246</p>
+    </div>
+  </div>
+</body>
+</html>
